@@ -1,0 +1,3 @@
+#!/bin/bash
+#pogoda Poltava
+curl -4 wttr.in/Poltava
