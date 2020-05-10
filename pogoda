@@ -1,3 +1,3 @@
 #!/bin/bash
-#pogoda Poltava
-curl -4 wttr.in/Poltava
+# Show weather in Poltava right now only.
+curl -s wttr.in/Poltava | head -7
